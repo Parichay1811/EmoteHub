@@ -11,8 +11,8 @@ body{
     flex-wrap: wrap;
     flex-direction: column;
     text-align: center;
-    /* background-color: #ffdcbb; */
-    background-color: #ffdfbb;
+    background: rgb(78,70,226);
+    background: linear-gradient(90deg, rgba(78,70,226,1) 0%, rgba(66,1,135,0.9389005602240896) 50%, rgba(175,0,255,0.6896008403361344) 100%);
     font-family: sans-serif;
     /* color: #eee; */
     font-size: 25px;
